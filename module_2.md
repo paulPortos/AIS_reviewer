@@ -2,7 +2,9 @@
 INFORMATION ASSURANCE (IA)
 ========================
 Definition:
-A set of measures intended to protect and defend information and information systems. It involves assuring information and managing risks related to the use, processing, storage, and transmission of information/data, as well as the systems and processes involved.
+A set of measures intended to protect and defend information and information systems.  
+It involves assuring information and managing risks related to the use, processing, storage, and transmission of information/data,  
+as well as the systems and processes involved.
 
 IMPORTANCE OF IA:
 - Information is an asset.
@@ -68,5 +70,5 @@ MALICIOUS SOFTWARE:
 ========================
 MEMORIZATION TIP:
 ========================
-Remember the 5 Pillars of IA using the acronym AICAN:
-Availability, Integrity, Confidentiality, Authentication, Non-repudiation.
+Remember the 5 Pillars of IA using the acronym:  
+**AICAN** → Availability, Integrity, Confidentiality, Authentication, Non-repudiation
