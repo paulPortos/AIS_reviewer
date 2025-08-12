@@ -1,117 +1,116 @@
-# THREATS
+# ⚠️ Threats
 
 A **threat** is a category of objects, persons, or other entities that presents a danger to an asset.  
-They are **always present** and can be **purposeful** or **undirected**.
+They are **always present** and can be **purposeful** or **undirected**.  
 
 ---
 
-# ATTACKS
+# 💥 Attacks
 
 An **attack** is an intentional or unintentional act that can cause damage to or otherwise compromise information and/or the systems that support it.  
-They can be:
-- Active or passive  
-- Intentional or unintentional  
-- Direct or indirect  
+
+They can be:  
+- 🔴 Active or passive  
+- 🎯 Intentional or unintentional  
+- 🔄 Direct or indirect  
 
 ---
 
-## INTENTIONAL ATTACKS AND THREATS
+## 🎯 Intentional Attacks and Threats
 
-### Password Attack
+### 🔑 Password Attack  
 - Attempting to access a user’s account or device by determining their password.
 
-### Cross-site Scripting (XSS)
+### 🖥️ Cross-site Scripting (XSS)  
 - Inserting malicious scripts into reliable websites, mainly in the HTML portion.
 
-### Internet of Things (IoT) Attacks
+### 📡 Internet of Things (IoT) Attacks  
 - Exploiting vulnerabilities in interconnected smart devices.
 
-### Malware
+### 🦠 Malware  
 - Malicious software such as viruses, worms, and trojans.
 
-### Phishing
+### 🎣 Phishing  
 - Sending fraudulent emails or text messages to trick users into giving sensitive information.
 
-### Zero-day Exploit
+### ⏳ Zero-day Exploit  
 - Exploiting newly released software that hasn’t been tested against vulnerabilities.
 
 ---
 
-## UNINTENTIONAL ATTACKS AND THREATS
+## ⚠️ Unintentional Attacks and Threats
 
-### Coding Error
+### 💻 Coding Error  
 - Mistakes from developers, such as forgetting important code.
 
-### Admin Error
+### 🛠️ Admin Error  
 - Accidental modification or deletion of data by administrators or users.
 
-### Natural Disasters
+### 🌪️ Natural Disasters  
 - Storms, earthquakes, floods, etc.
 
-### Power Supply Loss
+### 🔌 Power Supply Loss  
 - Brownouts or blackouts.
 
-### ISP Issues
+### 📡 ISP Issues  
 - Loss of communication due to faulty telecommunications.
 
-### In Peripheral Devices
+### 👀 In Peripheral Devices  
 - Sensitive information visible on screens or devices from a peripheral view.
 
-### Server Issues
+### 🖥️ Server Issues  
 - Hardware or software malfunctions causing downtime.
 
 ---
 
-## DATABASE SECURITY ATTACKS
+## 🗄️ Database Security Attacks
 
-### SQL Injection
+### 🛢️ SQL Injection  
 - Inserting malicious SQL queries into software input fields to manipulate or destroy data.
 
 ---
 
-## NETWORK SECURITY ATTACKS
+## 🌐 Network Security Attacks
 
-### Denial-of-Service (DoS) Attack
+### 🚫 Denial-of-Service (DoS) Attack  
 - Flooding systems, servers, or networks to overload and cause failure.
 
-### Man-in-the-Middle (MitM) Attack
+### 🕵️ Man-in-the-Middle (MitM) Attack  
 - Intercepting communications between devices to steal or alter information.
 
 ---
 
-# INFORMATION SECURITY DEFENSES
+# 🛡️ Information Security Defenses
 
-## Against Intentional Attacks
+## 🔒 Against Intentional Attacks
 
-- **Intrusion Detection System (IDS)**  
+- **🛡️ Intrusion Detection System (IDS)**  
   Monitors activities within the network to detect attacks like DoS or MitM.
 
-- **Information Security Management System (ISMS)**  
+- **📋 Information Security Management System (ISMS)**  
   Tracks employee activities and creates risk assessments.
 
-- **Anti-Virus**  
+- **💽 Anti-Virus**  
   Prevents, detects, and removes malware.
 
-- **Firewall**  
+- **🔥 Firewall**  
   Blocks unauthorized access to networks or devices.
 
-- **Software Updates**  
+- **🔄 Software Updates**  
   Fixes vulnerabilities, preventing zero-day exploits.
 
-- **SQL Injection Defense**  
+- **🛢️ SQL Injection Defense**  
   Validate inputs, use prepared statements, and follow secure coding practices.
 
 ---
 
-## Against Unintentional Attacks
+## ⚙️ Against Unintentional Attacks
 
-- **Training and Awareness**  
+- **📚 Training and Awareness**  
   Educate users on account protection, secure practices, and threat recognition.
 
-- **Disaster Preparedness**  
+- **🚨 Disaster Preparedness**  
   Fire drills, equipment placement (e.g., servers above flood level), backup plans.
 
-- **Power supply loss, ISP service loss, Server issues**  
+- **🔌 Power supply loss, 📡 ISP service loss, 🖥️ Server issues**  
   Use backup generators, alternate ISPs, and server redundancy.
-
----
